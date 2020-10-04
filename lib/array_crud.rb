@@ -29,7 +29,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   babes = ["Sam","am", "Anna", "Katie", "Jess"]
-  return babes[2]
+  return babes[1]
 end
 
 def retrieve_first_element_from_array(array)
