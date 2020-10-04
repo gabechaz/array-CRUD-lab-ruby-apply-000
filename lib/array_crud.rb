@@ -38,5 +38,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  babes = ["Sam", "Anna", "Katie", "Jess"]
+  babes = ["Sam", "Anna", "Katie", "arrays!"]
+  return babes[3]
 end
